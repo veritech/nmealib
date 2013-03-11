@@ -18,11 +18,11 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <nmea/parse.h>
+#include "parse.h"
 
-#include <nmea/gmath.h>
-#include <nmea/tok.h>
-#include <nmea/context.h>
+#include "gmath.h"
+#include "tok.h"
+#include "context.h"
 
 #include <string.h>
 #include <assert.h>

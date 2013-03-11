@@ -18,10 +18,10 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <nmea/info.h>
-#include <nmea/context.h>
-#include <nmea/parser.h>
-#include <nmea/gmath.h>
+#include "info.h"
+#include "context.h"
+#include "parser.h"
+#include "gmath.h"
 
 #include <stdio.h>
 #include <unistd.h>

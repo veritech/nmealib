@@ -18,8 +18,8 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <nmea/generator.h>
-#include <nmea/sentence.h>
+#include "generator.h"
+#include "sentence.h"
 
 #include <stdio.h>
 #include <unistd.h>

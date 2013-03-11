@@ -26,7 +26,7 @@
 #ifndef __NMEA_SENTENCE_H__
 #define __NMEA_SENTENCE_H__
 
-#include <nmea/info.h>
+#include "info.h"
 
 #include <stdint.h>
 

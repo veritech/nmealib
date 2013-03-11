@@ -18,7 +18,7 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <nmea/sentence.h>
+#include "sentence.h"
 
 #include <string.h>
 

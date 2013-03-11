@@ -18,9 +18,9 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <nmea/conversions.h>
+#include "conversions.h"
 
-#include <nmea/gmath.h>
+#include "gmath.h"
 
 #include <assert.h>
 #include <string.h>

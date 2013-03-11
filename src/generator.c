@@ -18,11 +18,11 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <nmea/generator.h>
+#include "generator.h"
 
-#include <nmea/context.h>
-#include <nmea/gmath.h>
-#include <nmea/generate.h>
+#include "context.h"
+#include "gmath.h"
+#include "generate.h"
 
 #include <stdlib.h>
 #include <string.h>

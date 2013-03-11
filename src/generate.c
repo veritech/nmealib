@@ -18,10 +18,10 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <nmea/generate.h>
+#include "generate.h"
 
-#include <nmea/tok.h>
-#include <nmea/conversions.h>
+#include "tok.h"
+#include "conversions.h"
 
 #include <stdio.h>
 #include <stdbool.h>

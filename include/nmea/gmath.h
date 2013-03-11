@@ -21,7 +21,7 @@
 #ifndef __NMEA_GMATH_H__
 #define __NMEA_GMATH_H__
 
-#include <nmea/info.h>
+#include "info.h"
 
 #define NMEA_TUD_YARDS              (1.0936133)                     /**< Yards, meter * NMEA_TUD_YARDS = yard */
 #define NMEA_TUD_KNOTS              (1.852)                         /**< Knots, kilometer / NMEA_TUD_KNOTS = knot */

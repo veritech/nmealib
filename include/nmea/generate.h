@@ -21,7 +21,7 @@
 #ifndef __NMEA_GENERATE_H__
 #define __NMEA_GENERATE_H__
 
-#include <nmea/sentence.h>
+#include "sentence.h"
 
 #ifdef  __cplusplus
 extern "C" {

@@ -18,12 +18,12 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <nmea/parser.h>
+#include "parser.h"
 
-#include <nmea/context.h>
-#include <nmea/parse.h>
-#include <nmea/sentence.h>
-#include <nmea/conversions.h>
+#include "context.h"
+#include "parse.h"
+#include "sentence.h"
+#include "conversions.h"
 
 #include <stdlib.h>
 #include <string.h>

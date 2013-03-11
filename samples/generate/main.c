@@ -18,10 +18,10 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <nmea/info.h>
+#include "info.h"
 
-#include <nmea/gmath.h>
-#include <nmea/generate.h>
+#include "gmath.h"
+#include "generate.h"
 
 #include <stdio.h>
 #include <unistd.h>
